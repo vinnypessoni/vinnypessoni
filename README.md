@@ -1,4 +1,4 @@
-### Hi and Welcome! I´m Vinicius Pessoni 
+### Hi and Welcome! I´m MSc Vinicius Pessoni 
 ##### (a.k.a Vinny Pessoni, or professor @pessonizando instagram and youtube channel)! 👋
 
 I´m passionate about creating wonderful software that positively impacts the life of millions of people! 
