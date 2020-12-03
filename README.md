@@ -13,6 +13,11 @@ I´m experienced in Java, Kotlin, Ruby and Go.
 <a href="https://www.instagram.com/pessonizando/">
   <img align="left" alt="Vinicius Pessoni on Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+
+<a href="https://www.youtube.com/pessonizando/">
+  <img align="left" alt="Vinicius Pessoni on Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />
+</a>
+
 <a href="https://twitter.com/pessonizando">
   <img align="left" alt="Vinicius Pessoni on Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
