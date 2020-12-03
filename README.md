@@ -1,4 +1,8 @@
-### Hi and Welcome! I´m Vinicius Pessoni (a.k.a Vinny Pessoni from @pessonizando)! 👋
+### Hi and Welcome! I´m Vinicius Pessoni (a.k.a Vinny Pessoni, or professor @pessonizando instagram and youtube channel)! 👋
+
+I´m passionate about software testing, quality assurance and coding.
+
+I have experiences as university professor, test manager, developer and I´m currenlty a Lead Software Engineer in Test @AMEX in the United Kingdom. 
 
 <!--
 **vinnypessoni/vinnypessoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
