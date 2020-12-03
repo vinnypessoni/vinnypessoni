@@ -1,4 +1,4 @@
-### Hi and Welcome! I´m MSc Vinicius Pessoni 
+## Hi and Welcome! I´m MSc Vinicius Pessoni 
 ##### (a.k.a Vinny Pessoni, or professor @pessonizando instagram and youtube channel)! 👋
 
 I´m passionate about creating wonderful software that positively impacts the life of millions of people! 
@@ -15,7 +15,9 @@ I´m experienced in many languages like Java, Kotlin, Ruby, PHP, JS and Go.
 
 But I guess you can tell which ones are my favourites if you have a look at my stats bellow =)
 
-Connect with me in your favourite social
+<!--START_SECTION:social-->
+
+### Connect with me in your favourite social
 
 <a href="https://www.instagram.com/pessonizando/">
   <img align="left" alt="Vinicius Pessoni on Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
@@ -34,9 +36,7 @@ Connect with me in your favourite social
 <a href="https://t.me/pessonizando">
   <img align="left" alt="Vinicius Pessoni on Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-
-
----
+<!--END_SECTION:social-->
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinnypessoni&hide=TeX&layout=compact)
