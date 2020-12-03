@@ -15,7 +15,7 @@ I´m experienced in many languages like Java, Kotlin, Ruby, PHP, JS and Go.
 
 But I guess you can tell which ones are my favourites if you have a look at my stats bellow =)
 
-
+Connect with me in your favourite social
 
 <a href="https://www.instagram.com/pessonizando/">
   <img align="left" alt="Vinicius Pessoni on Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
