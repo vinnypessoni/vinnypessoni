@@ -1,7 +1,9 @@
 ### Hi and Welcome! I´m Vinicius Pessoni 
 ##### (a.k.a Vinny Pessoni, or professor @pessonizando instagram and youtube channel)! 👋
 
-I´m passionate about software testing, quality assurance and creating wonderful software that positively impacts the life of millions of people.
+I´m passionate about creating wonderful software that positively impacts the life of millions of people! 
+
+Also love to help people to develop themselves and become amazing coders and testers!
 
 I have 10+ years of experience in a variety of computing topics such as university professor, test manager, developer and writer. 
 
