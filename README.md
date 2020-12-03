@@ -11,7 +11,9 @@ I'm currently a Lead Software Engineer in Test @AMEX in the United Kingdom.
 
 Here you will find example codes that I developed to teach my students in my software testing mentorship program - Tester Global and Comunidade do Tester Global.
 
-I´m experienced in many languages like Java, Kotlin, Ruby, PHP, JS and Go. But I guess you can tell which ones are my favourites if you have a look at my stats bellow =)
+I´m experienced in many languages like Java, Kotlin, Ruby, PHP, JS and Go. 
+
+But I guess you can tell which ones are my favourites if you have a look at my stats bellow =)
 
 <a href="https://www.instagram.com/pessonizando/">
   <img align="left" alt="Vinicius Pessoni on Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
