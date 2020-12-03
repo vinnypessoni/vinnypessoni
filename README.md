@@ -15,7 +15,7 @@ I´m experienced in many languages like Java, Kotlin, Ruby, PHP, JS and Go.
 
 But I guess you can tell which ones are my favourites if you have a look at my stats bellow =)
 
-<!--START_SECTION:social-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinnypessoni&hide=TeX&layout=compact)
 
 ### Connect with me in your favourite social
 
@@ -36,10 +36,6 @@ But I guess you can tell which ones are my favourites if you have a look at my s
 <a href="https://t.me/pessonizando">
   <img align="left" alt="Vinicius Pessoni on Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<!--END_SECTION:social-->
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinnypessoni&hide=TeX&layout=compact)
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=vinnypessoni)
