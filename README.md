@@ -8,6 +8,8 @@ I'm currently a Lead Software Engineer in Test @AMEX in the United Kingdom.
 
 Here you will find example codes that I developed to teach my students in my software testing mentorship program - Tester Global and Comunidade do Tester Global.
 
+I´m experienced in Java, Kotlin, Ruby and Go. 
+
 <a href="https://www.instagram.com/pessonizando/">
   <img align="left" alt="Vinicius Pessoni on Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
@@ -36,6 +38,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinnypessoni&hide=TeX&layout=compact)
