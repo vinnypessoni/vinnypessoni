@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+![](https://visitor-badge.glitch.me/badge?page_id=vinnypessoni)
 
-![] https://github-readme-stats.vercel.app/api/top-langs/?username=vinnypessoni
+![] (https://github-readme-stats.vercel.app/api/top-langs/?username=vinnypessoni)
