@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi and Welcome! I´m Vinicius Pessoni (a.k.a Vinny Pessoni from @pessonizando)! 👋
 
 <!--
 **vinnypessoni/vinnypessoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
