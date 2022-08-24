@@ -1,11 +1,11 @@
 ## Hi and Welcome! I´m MSc Vinicius Pessoni 
 ##### (a.k.a Vinny Pessoni, or professor @pessonizando instagram and youtube channel)! 👋
 
-I´m passionate about creating wonderful software that positively impacts the life of millions of people! 
+I´m passionate about leading teams creating wonderful software that positively impacts the life of millions of people! 
 
 Also love to help people to develop themselves and become amazing coders and testers!
 
-I have 11+ years of experience in a variety of computing topics such as university professor, test manager, developer, SDET, Speaker and writer. 
+I have 13+ years of broad experience as Software Engineering Managemer, university professor, test manager, developer, SDET, Speaker and writer. 
 
 I'm currently a Senior Software Engineer in Test @CTM in the United Kingdom. 
 
