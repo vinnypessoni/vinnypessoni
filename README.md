@@ -5,9 +5,9 @@ I´m passionate about leading teams creating wonderful software that positively 
 
 Also love to help people to develop themselves and become amazing coders and testers!
 
-I have 13+ years of broad experience as Software Engineering Managemer, university professor, test manager, developer, SDET, Speaker and writer. 
+I have 13+ years of broad experience in Software Engineering working as Software Engineering Manager, university professor, test manager, developer, SDET, Speaker and writer. 
 
-I'm currently a Senior Software Engineer in Test @CTM in the United Kingdom. 
+I'm currently a Software Engineer Manager leading a team of about 10 people @CTM in London, United Kingdom. 
 
 Here you will find example codes that I developed to teach my students in my software testing mentorship program - Tester Global and Comunidade do Tester Global.
 
